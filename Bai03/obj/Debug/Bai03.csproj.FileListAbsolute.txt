@@ -1,0 +1,16 @@
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\bin\Debug\Bai03.exe.config
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\bin\Debug\Bai03.exe
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\bin\Debug\Bai03.pdb
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\bin\Debug\Interop.WMPLib.dll
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\bin\Debug\AxInterop.WMPLib.dll
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Interop.WMPLib.dll
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\AxInterop.WMPLib.dll
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.Form1.resources
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.exe
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.pdb
+D:\HocTap\HK3\LTTQ\Thuc_Hanh\TH4\Bai03\obj\Debug\Bai03.exe.config
