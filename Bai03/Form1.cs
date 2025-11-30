@@ -22,11 +22,6 @@ namespace Bai03
             Close();
         }
 
-        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void timer1_Tick(object sender, EventArgs e)
         {
             toolStripStatusLabel1.Text = DateTime.Now.ToString("HH:mm:ss dd/MM/yyyy");
