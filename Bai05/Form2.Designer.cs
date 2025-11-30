@@ -111,8 +111,8 @@
             "Công nghệ thông tin",
             "Kỹ thuật phần mềm",
             "Khoa học máy tính",
-            "Thương mại điện tử",
-            "Kỹ thuật máy tính"});
+            "Kỹ thuật máy tính",
+            "Hệ thống thông tin"});
             this.cmbKhoa.Location = new System.Drawing.Point(197, 153);
             this.cmbKhoa.Name = "cmbKhoa";
             this.cmbKhoa.Size = new System.Drawing.Size(352, 24);
