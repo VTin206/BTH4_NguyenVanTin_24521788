@@ -85,12 +85,13 @@ namespace Bai06
                     progressBar1.Refresh();
                     Application.DoEvents();
                 }
-                if(progressBar1.Value == 100)
+                if(bytesCopied == totalBytes)
                 {
+                    progressBar1.Value = 100;
                     tooltipTrangThai.Show("Sao chép hoàn tất!", groupBox2);
                     toolStripStatusLabel1.Text = "Sao chép hoàn tất!";
-                    DialogResult = MessageBox.Show("Sao chép file thành công!", "Hoàn tất", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    if(DialogResult == DialogResult.OK)
+                    var result = MessageBox.Show("Sao chép file thành công!", "Hoàn tất", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    if(result == DialogResult.OK)
                     {
                         Reset();
                     }
