@@ -22,9 +22,9 @@ namespace Bai05
         {
             lsvQuanLy.Columns.Add(" ");
             lsvQuanLy.Columns.Add("Số STT");
-            lsvQuanLy.Columns.Add("Mã Số SV");
-            lsvQuanLy.Columns.Add("Tên Sinh Viên");
-            lsvQuanLy.Columns.Add("Khoa");
+            lsvQuanLy.Columns.Add("Mã Số SV        ");
+            lsvQuanLy.Columns.Add("Tên Sinh Viên                ");
+            lsvQuanLy.Columns.Add("Khoa                              ");
             lsvQuanLy.Columns.Add("Điểm TB");
             lsvQuanLy.View = View.Details;
             lsvQuanLy.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
